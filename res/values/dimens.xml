@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="day_padding_horizontal">21dp</dimen>
+    <dimen name="day_padding_vertical">18dp</dimen>
+    <dimen name="day_text_size">17sp</dimen>
+    <dimen name="days_header_text_size">10sp</dimen>
+    <dimen name="month_title_y">30dp</dimen>
+    <dimen name="month_name_text_size">20sp</dimen>
+
+</resources>

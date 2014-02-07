@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CanvasCalendar</string>
+    <string name="January">January</string>
+    <string name="February">February</string>
+    <string name="March">March</string>
+    <string name="April">April</string>
+    <string name="May">May</string>
+    <string name="June">June</string>
+    <string name="July">July</string>
+    <string name="August">August</string>
+    <string name="September">September</string>
+    <string name="October">October</string>
+    <string name="November">November</string>
+    <string name="December">December</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+
+</resources>
