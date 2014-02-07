@@ -3,8 +3,8 @@
 
 ![Alt text](screenshot.jpg "CanvasCalendar Samsung Galaxy S2")
 
-Supports Android 1.0 +
-----------------------
+Required min API level 1
+-------------------------
 
 USAGE
 ------
