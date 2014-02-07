@@ -3,16 +3,35 @@
 
 ![Alt text](screenshot.jpg "CanvasCalendar Samsung Galaxy S2")
 
-AUTHOR:
+Supports Android 1.0 +
+----------------------
+
+USAGE
+------
+    // April 2014
+    CanvasCalendarMonthView canvasMonthView = new CanvasCalendarMonthView(this, 3, 2014);
+
+    // A nice background
+    canvasMonthView.setBackgroundResource(R.drawable.month_bg);
+
+    // Vibrate on day selection.
+    canvasMonthView.setVibrateOnDaySelected(true);
+
+    // Set a listener for day selection.
+    canvasMonthView.setOnDaySelectedListener(this);
+
+For a working example, please browse the **src** directory in this repository, and look for UsageExampleActivity.java
+
+AUTHOR
 -------
 
 **Rany Albeg Wein**
 
-TODO:
+TODO
 -----
 
 - Add strech-to-fit functionality to fit the width of the screen while maintaining proportions between the text size and the padding.
-- Add an attrs.xml file and a CanvasCalendarMonthView(Context context, AttributeSet attrs) constructo.r
+- Add an attrs.xml file and a CanvasCalendarMonthView(Context context, AttributeSet attrs) constructor.
 
 
 LICENSE
