@@ -1,17 +1,18 @@
 A light-weight calendar month view. Implemented as a single view drawn on a canvas - to be as light as possible and friendly for adapter integration.
+===================
 
-![Alt text](screenshot.jpg "Screen shot")
+![Alt text](screenshot.jpg "CanvasCalendar Samsung Galaxy S2")
 
 AUTHOR:
 -------
 
-Rany Albeg Wein
+**Rany Albeg Wein**
 
 TODO:
 -----
 
-1. Add strech-to-fit functionality to fit the width of the screen while maintaining proportions between the text size and the padding.
-2. Add an attrs.xml file and a CanvasCalendarMonthView(Context context, AttributeSet attrs) constructo.r
+- Add strech-to-fit functionality to fit the width of the screen while maintaining proportions between the text size and the padding.
+- Add an attrs.xml file and a CanvasCalendarMonthView(Context context, AttributeSet attrs) constructo.r
 
 
 LICENSE
