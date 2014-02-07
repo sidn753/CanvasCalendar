@@ -1,5 +1,4 @@
-![Alt text](res/drawable-hdpi/ic_launcher.png "Icon")
-A light-weight calendar month view. Implemented as a single view drawn on a canvas - to be as light as possible and friendly for adapter integration.
+![Alt text](res/drawable-hdpi/ic_launcher.png "Icon") A light-weight calendar month view. Implemented as a single view drawn on a canvas - to be as light as possible and friendly for adapter integration.
 ===================
 
 ![Alt text](screenshot.jpg "CanvasCalendar Samsung Galaxy S2")
