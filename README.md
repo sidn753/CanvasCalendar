@@ -9,17 +9,17 @@ Required min API level 1
 USAGE
 ------
 ```java
-    // April 2014
-    CanvasCalendarMonthView canvasMonthView = new CanvasCalendarMonthView(this, 3, 2014);
+// April 2014
+CanvasCalendarMonthView canvasMonthView = new CanvasCalendarMonthView(this, 3, 2014);
 
-    // A nice background
-    canvasMonthView.setBackgroundResource(R.drawable.month_bg);
+// A nice background
+canvasMonthView.setBackgroundResource(R.drawable.month_bg);
 
-    // Vibrate on day selection.
-    canvasMonthView.setVibrateOnDaySelected(true);
+// Vibrate on day selection.
+canvasMonthView.setVibrateOnDaySelected(true);
 
-    // Set a listener for day selection.
-    canvasMonthView.setOnDaySelectedListener(this);
+// Set a listener for day selection.
+canvasMonthView.setOnDaySelectedListener(this);
 ```
 
 For a working example, please browse the **src** directory in this repository, and look for UsageExampleActivity.java
