@@ -8,6 +8,7 @@ Required min API level 1
 
 USAGE
 ------
+```java
     // April 2014
     CanvasCalendarMonthView canvasMonthView = new CanvasCalendarMonthView(this, 3, 2014);
 
@@ -19,6 +20,7 @@ USAGE
 
     // Set a listener for day selection.
     canvasMonthView.setOnDaySelectedListener(this);
+```
 
 For a working example, please browse the **src** directory in this repository, and look for UsageExampleActivity.java
 Inside the **bin** directory you can find the **apk** file of this demonstration.
